@@ -1,0 +1,4 @@
+Enter URL into code where "Enter URL here" is present
+Script will search into the website to check if HTTP methods are possible
+
+Wont work if website uses cloudflare
